@@ -1,4 +1,4 @@
-# 🚦 Traffic Object Detection Pipeline
+#  Object Detection Pipeline
 
 A modular, object‑oriented Python project for detecting vehicles and other objects in traffic images using **Faster R‑CNN**, **YOLOv5**, and **YOLOv8**. The pipeline is split into reusable modules for data preprocessing, model inference, and post‑processing/visualization.
 
